@@ -1,1 +1,1 @@
-# Sparta-Global-Instagram
+# Sparta-Global-Instagram-Clone
